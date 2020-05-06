@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="jest tests" tests="4" failures="0" time="2.792">
+  <testsuite name="Zadanie" errors="0" failures="0" skipped="0" timestamp="2020-03-09T13:23:44" time="2.269" tests="4">
+    <testcase classname="Zadanie" name="94% dla widoku do 360px" time="0.011">
+    </testcase>
+    <testcase classname="Zadanie" name="96% dla widoku do 768px" time="0.004">
+    </testcase>
+    <testcase classname="Zadanie" name="720px dla widoku do 1024px" time="0.003">
+    </testcase>
+    <testcase classname="Zadanie" name="996px dla widoku powyżej 1024px" time="0.004">
+    </testcase>
+  </testsuite>
+</testsuites>
